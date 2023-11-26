@@ -6,7 +6,7 @@ export function Footer () {
   }
 
   return (
-    <footer className='w-full'>
+    <footer className='w-full pb-8 sm:pb-0'>
       <header className='font-bold text-2xl text-indigo-400 dark:text-gray-100 mb-6 flex items-center gap-3'>
         <h2>Email</h2>
         <i className='fa-solid fa-envelope text-3xl' />

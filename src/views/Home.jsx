@@ -16,7 +16,7 @@ export function Home () {
           <article className='grid items-center sm:items-start gap-3'>
             <header className='flex flex-col items-left gap-2'>
               <h1 className='text-2xl sm:text-4xl text-center sm:text-left font-bold text-slate-600 dark:text-slate-100'>Gallardo JA</h1>
-              <p className='text-slate-700 text-sm sm:text-lg dark:text-slate-300 max-w-xl rounded-2xl'>I'm a passionate web development and UI/UX student.</p>
+              <p className='text-center sm:text-left text-slate-700 text-sm sm:text-lg dark:text-slate-300 max-w-xl rounded-2xl'>I'm a passionate web development and UI/UX student.</p>
             </header>
 
             <footer className='flex gap-3 justify-center sm:justify-start'>
