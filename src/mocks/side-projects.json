@@ -24,6 +24,19 @@
       ],
       "repoUrl": "https://github.com/Gallardior/Pokedex",
       "projectUrl": "https://gallardior.github.io/Pokedex/"
+    },
+    {
+      "name": "Buscador de Peliculas",
+      "description": "Busca peliculas y series.",
+      "img": "",
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "repoUrl": "https://github.com/Gallardior/movie-searcher",
+      "projectUrl": "https://movie-searcher-lilac.vercel.app/"
     }
   ]
 } 
