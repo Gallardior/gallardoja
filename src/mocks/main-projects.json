@@ -3,7 +3,7 @@
     {
       "name": "EnviosUsaPeru",
       "description": "Compra en USA, y recibe hasta en 5 días en Perú. Puedes cotizar y hacer tracking de tu pedido.",
-      "img": "http://127.0.0.1:5173/EUP.webp",
+      "img": "/EUP.webp",
       "tools": [
         "HTML",
         "CSS",
@@ -17,7 +17,7 @@
     {
       "name": "Sendibox",
       "description": "Compras en línea desde tus tiendas favoritas, con tracking de pedido y servicio de courier.",
-      "img": "http://127.0.0.1:5173/sendi.webp",
+      "img": "/sendi.webp",
       "tools": [
         "HTML",
         "CSS",
@@ -31,7 +31,7 @@
     {
       "name": "Hypex",
       "description": "Casa de cambio de Lima Perú, cambio de soles a dólares y viceversa con esta app.",
-      "img": "http://127.0.0.1:5173/hypex.webp",
+      "img": "/hypex.webp",
       "tools": [
         "HTML",
         "CSS",
