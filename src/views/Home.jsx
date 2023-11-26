@@ -10,7 +10,7 @@ export function Home () {
       <div className='pt-24 mx-auto max-w-3xl px-5 mb-5 flex flex-col gap-10'>
         <section className='flex flex-col sm:flex-row items-center gap-5'>
           <picture className='relative w-44 h-44 bg-indigo-100 dark:bg-gray-700/60 border-8 border-gray-200 dark:border-gray-900/80 shadow-xl rounded-full overflow-hidden'>
-            <img src='/me.jpeg' alt='Jesus Gallardo' />
+            <img src='/me.webp' alt='Jesus Gallardo' loading='lazy' className='bg-gray-700 h-full w-full object-cover object-top' />
           </picture>
 
           <article className='grid items-center sm:items-start gap-3'>
