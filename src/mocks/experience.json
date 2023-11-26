@@ -1,0 +1,15 @@
+{
+  "experience": [
+    {
+      "title": "Front-End Developer • Grupocasza",
+      "date": "Jun 2022 — Jul 2023",
+      "highlights": [
+        "Desarrollo de EnviosUsaPerú y Sendibox con VueJS para la gestión y tracking de pedidos, que se realizan diariamente en nuestro ecommerce.",
+        "Implementar las nuevas interfaces de usuario utilizando TailwindCSS.",
+        "Este software reemplazó a su versión anterior, aumentando las ventas y la retención del cliente.",
+        "Mejoro la eficiencia en la gestión de pedidos, y elimino errores de inconsistencias en la infromación.",
+        "Desarrollo de nuevas funcionalidades al admin de nuestros productos, adaptándolo a nuevos requerimientos"
+      ]
+    }
+  ]
+}

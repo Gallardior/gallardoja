@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "name": "Gyphy",
+      "description": "Busca los gifs más divertidos y compártelos con tus amigos.",
+      "img": "",
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "repoUrl": "https://github.com/Gallardior/gyphy-searcher",
+      "projectUrl": "https://gyphy-searcher.vercel.app/"
+    },
+    {
+      "name": "Pokedex",
+      "description": "Encuentra tu Pokémon favorito en este pokedex dibujado con CSS.",
+      "img": "",
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "repoUrl": "https://github.com/Gallardior/Pokedex",
+      "projectUrl": "https://gallardior.github.io/Pokedex/"
+    }
+  ]
+} 
