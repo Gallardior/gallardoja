@@ -1,6 +1,36 @@
 {
   "projects": [
     {
+      "name": "Popadvise",
+      "description": "La solución completa para tu negocio: adquisición, retención, recompra; ¡prueba ahora el centro completo de experiencia del cliente y mejora tus ventas!",
+      "img": "/popadvise.png",
+      "tools": [
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "JavaScript",
+        "React",
+        "Nextjs"
+      ],
+      "repoUrl": "",
+      "projectUrl": "https://enviosusaperu.com/"
+    },
+    {
+      "name": "Ticketly",
+      "description": "Sistema de boletaje de nueva generación que te permite vender boletos para tus eventos de manera rápida y segura.",
+      "img": "/ticketly.png",
+      "tools": [
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "JavaScript",
+        "React",
+        "Nextjs"
+      ],
+      "repoUrl": "",
+      "projectUrl": "https://enviosusaperu.com/"
+    },
+    {
       "name": "EnviosUsaPeru",
       "description": "Compra en USA, y recibe hasta en 5 días en Perú. Puedes cotizar y hacer tracking de tu pedido.",
       "img": "/EUP.webp",
@@ -27,19 +57,6 @@
       ],
       "repoUrl": "",
       "projectUrl": "https://sendi.com.pe/"
-    },
-    {
-      "name": "Hypex",
-      "description": "Casa de cambio de Lima Perú, cambio de soles a dólares y viceversa con esta app.",
-      "img": "/hypex.webp",
-      "tools": [
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "JavaScript"
-      ],
-      "repoUrl": "",
-      "projectUrl": "https://hypex.pe/"
     }
   ]
 }

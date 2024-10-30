@@ -1,14 +1,22 @@
 {
   "experience": [
     {
-      "title": "Front-End Developer • Grupocasza",
-      "date": "Ago 2021 — Hasta el presente",
+      "title": "Front-End Developer • Popadvise",
+      "date": "Nov 2023 — Hasta el presente",
       "highlights": [
-        "Desarrollo de EnviosUsaPerú y Sendibox con VueJS para la gestión y tracking de pedidos, que se realizan diariamente en nuestro ecommerce.",
-        "Implementar las nuevas interfaces de usuario utilizando TailwindCSS.",
-        "Este software reemplazó a su versión anterior, aumentando las ventas y la retención del cliente.",
-        "Mejoro la eficiencia en la gestión de pedidos, y elimino errores de inconsistencias en la infromación.",
-        "Desarrollo de nuevas funcionalidades al admin de nuestros productos, adaptándolo a nuevos requerimientos"
+        "Desarrollo en equipo de 'Ticketly', una plataforma de boletaje moderno con Next.js y TailwindCSS, logrando reducir los tiempos de carga en un 30% y mejorando la seguridad en la gestión de boletos.",
+        "Creación de interfaces modulares con shadcn para un diseño adaptable y escalable, optimizando el desarrollo en 20% mediante el uso de componentes reutilizables.",
+        "Uso de herramientas de IA como ChatGPT para asistir en procesos de depuración y generación de ideas, acelerando la resolución de problemas en un 25%."
+      ]
+    },
+    {
+      "title": "Front-End Developer • Grupocasza",
+      "date": "Ago 2021 — Nov 2023",
+      "highlights": [
+        "Desarrollé y optimicé plataformas de gestión de pedidos como EnviosUsaPerú y Sendibox usando VueJS y TailwindCSS, reduciendo errores de inconsistencia en un 30% y mejorando la eficiencia de los procesos de logística en un 25%",
+        "Implementé y personalicé interfaces modulares, generando mayor retención de clientes y aumentando ventas en un 15%.",
+        "Adapté el sistema de administración para responder a nuevos requisitos, asegurando la escalabilidad del software y cumpliendo con los estándares de seguridad en integración de APIs.",
+        "Participé en la transición de prototipos de diseño en Figma a componentes funcionales en React y Next.js, destacando la usabilidad y el diseño limpio en el producto final."
       ]
     }
   ]

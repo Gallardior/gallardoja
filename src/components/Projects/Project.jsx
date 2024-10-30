@@ -5,7 +5,7 @@ export function Project ({ name, img, description, tools, repoUrl, projectUrl })
     <article className='grid gap-4 sm:gap-7 md:grid-cols-2 group'>
       <a href={projectUrl} target='_blank' className='block' rel='noreferrer'>
         <picture className='pt-10 pl-10 relative rounded-xl overflow-hidden flex bg-indigo-100 dark:bg-gray-700/50 group/projectImage'>
-          <img src={img} alt='My Project' className=' transform group-hover/projectImage:scale-110 duration-500 transition-transform' />
+          <img src={img} alt='My Project' className='rounded-tl-md transform group-hover/projectImage:scale-110 duration-500 transition-transform' />
         </picture>
       </a>
       <main className='flex flex-col gap-2.5 justify-center'>

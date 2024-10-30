@@ -37,6 +37,20 @@
       ],
       "repoUrl": "https://github.com/Gallardior/movie-searcher",
       "projectUrl": "https://movie-searcher-lilac.vercel.app/"
+    },
+    {
+      "name": "Hypex",
+      "description": "Casa de cambio de Lima Perú, cambio de soles a dólares y viceversa con esta app.",
+      "img": "/hypex.webp",
+      "tools": [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "JavaScript"
+      ],
+      "repoUrl": "",
+      "projectUrl": "https://hypex.pe/"
     }
+
   ]
 } 
